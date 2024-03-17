@@ -1,5 +1,7 @@
-import 'package:dart_application_auntentication1/routes/myroutes.dart';
-import 'package:dart_application_auntentication1/routes/rourte.dart';
+import 'package:dart_application_login/routes/myroutes.dart';
+import 'package:dart_application_login/routes/route.dart';
+import 'package:dart_application_login/routes.dart/myroutes.dart';
+import 'package:dart_application_login/routes.dart/route.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
